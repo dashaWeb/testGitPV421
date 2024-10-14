@@ -10,3 +10,6 @@ p{
 body{
     background-color: aquamarine;
 }
+img{
+    border: solid 5px;
+}
